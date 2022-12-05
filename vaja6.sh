@@ -6,5 +6,5 @@ mkdir pictures
 mkdir videos
 for i in {1..5}
 do
-mkdir folder $i
+mkdir folder$i
 done
